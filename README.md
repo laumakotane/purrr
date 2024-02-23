@@ -1,1 +1,2 @@
 # purrr
+Šis ir vingrinājums!
